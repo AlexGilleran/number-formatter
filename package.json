@@ -1,5 +1,5 @@
 {
-  "name": "number-formatter",
+  "name": "@alexgilleran-valtech/number-formatter",
   "version": "0.0.1",
   "description": "formats numbers",
   "main": "index.js",
